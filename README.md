@@ -1,2 +1,1 @@
-new Teste
-:P
+new Teste :P
