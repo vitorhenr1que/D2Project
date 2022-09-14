@@ -1,4 +1,4 @@
-<strong>D2Project</strong>
+<strong>D2Project</strong> em desenvolvimento.
 
 Projeto que consome informações da API pública do Dota2
 
